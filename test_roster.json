@@ -1,0 +1,30 @@
+roster = [
+    "f_ava",
+    "f_bailey",
+    "f_clarise",
+    "f_dorine",
+    "f_elaine",
+    "m_frederik",
+    "m_gordon",
+    "m_harold",
+    "m_ivan",
+    "m_jake",
+    "m_kris",
+    "m_lenny",
+    "m_morty"
+];
+    
+positions = [
+    "Catcher",
+    "Pitcher",
+    "First Base",
+    "Second Base",
+    "Short Stop",
+    "Third Base",
+    "Left Field",
+    "Centre Field",
+    "Right Field",
+    "Rover"
+];
+
+innings = 7;
